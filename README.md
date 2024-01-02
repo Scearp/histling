@@ -1,4 +1,4 @@
-This is a set of tools for automating the parts of the comparative method.
+This is a set of tools for automating parts of the comparative method.
 Planned features include
 * Tools for working with and generating word lists;
 * IPA and sound class tokenization;
