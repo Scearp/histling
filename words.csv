@@ -1,0 +1,926 @@
+﻿language,ipa,gloss
+po,eu,I
+po,tu,you (singular)
+po,vose,you (singular)
+po,eli,he
+po,nɔs,we
+po,vɔs,you (plural)
+po,vɔses,you (plural)
+po,elis,they
+po,ɛlɐʃ,they
+po,istu,this
+po,estʃi,this
+po,ɛsta,this
+po,akilu,that
+po,akeli,that
+po,aki,here
+po,ai,there
+po,la,there
+po,ɐli,there
+po,ke.j.,who
+po,ki,what
+po,uki,what
+po,o.dʒi,where
+po,kwɐ.du,when
+po,komu,how
+po,nɐ.w.,not
+po,todu,all
+po,tudu,all
+po,mu.j.tu,many
+po,auɡu.s,some
+po,awɡu.,some
+po,poku,few
+po,otɾu,other
+po,u.,one
+po,dois,two
+po,tɾes,three
+po,kwatɾu,four
+po,si.ku,five
+po,ɡɾɐ.dʒi,big
+po,lo.ɡu,long
+po,ko.pɾidu,long
+po,laʁɡu,wide
+po,ɐ.plu,wide
+po,ispesu,thick
+po,ɡɾosu,thick
+po,pezadu,heavy
+po,pikenu,small
+po,kuʁtu,short
+po,istɾejtu,narrow
+po,finu,thin
+po,maɡɾu,thin
+po,dewɡadu,thin
+po,muʎɛɾ,woman
+po,ome.j.,man (male)
+po,kɾiɐ.sɐ,child
+po,muʎɛɾ,wife
+po,ispoza,wife
+po,maɾidu,husband
+po,ispozu,husband
+po,mɐ.j.,mother
+po,pai,father
+po,animaw,animal
+po,peʃi,fish
+po,avi,bird
+po,pasaɾu,bird
+po,kɐ.w.,dog
+po,kɐʃoʁu,dog
+po,pioʎu,louse
+po,seʁpe.tʃi,snake
+po,kɔbɾɐ,snake
+po,vɛʁmi,worm
+po,biʃu,worm
+po,aʁvoɾi,tree
+po,floɾɛstɐ,forest
+po,bɔski,forest
+po,bastɐ.w.,stick
+po,paʊ,stick
+po,fɾutɐ,fruit
+po,fɾutu,fruit
+po,seme.tʃi,seed
+po,foʎɐ,leaf
+po,xais,root
+po,kaskɐ,bark (of a tree)
+po,flox,flower
+po,ɛʁvɐ,grass
+po,ɡɾɐ.mɐ,grass
+po,ʁɛwvɐ,grass
+po,kɔʁdɐ,rope
+po,pɛli,skin
+po,kaʁni,meat
+po,sɐ.ɡi,blood
+po,osu,bone
+po,ɡoʁduɾɐ,fat (noun)
+po,ovu,egg
+po,ʃifɾi,horn
+po,koʁnu,horn
+po,kawdɐ,tail
+po,xabu,tail
+po,penɐ,feather
+po,plumɐ,feather
+po,kabelu,hair
+po,pelu,hair
+po,kabesɐ,head
+po,oɾeʎɐ,ear
+po,oʎu,eye
+po,naɾis,nose
+po,bokɐ,mouth
+po,de.tʃi,tooth
+po,li.ɡwɐ,tongue
+po,uɲɐ,fingernail
+po,pɛ,foot
+po,pɛʁnɐ,leg
+po,ʒueʎu,knee
+po,mɐ.w.,hand
+po,azɐ,wing
+po,ve.tɾi,belly
+po,baxiɡɐ,belly
+po,e.tɾɐ.ɲɐs,guts
+po,i.testʃinu,guts
+po,tɾipɐs,guts
+po,peskosu,neck
+po,kɔstɐs,back
+po,doɾsu,back
+po,pejtu,breast
+po,sejus,breast
+po,koɾasɐ.w.,heart
+po,fiɡɐdu,liver
+po,bebe,to drink
+po,kome,to eat
+po,moʁde,to bite
+po,suɡa,to suck
+po,ʃupa,to suck
+po,kuspi,to spit
+po,vomita,to vomit
+po,sopɾa,to blow
+po,ʁespiɾa,to breathe
+po,ʁi,to laugh
+po,ve,to see
+po,ovi,to hear
+po,sabe,to know
+po,koɲese,to know
+po,pe.sa,to think
+po,ʃeɾa,to smell
+po,teme,to fear
+po,doʁmi,to sleep
+po,vive,to live
+po,moʁe,to die
+po,mata,to kill
+po,luta,to fight
+po,kasa,to hunt
+po,bate,to hit
+po,koʁta,to cut
+po,ʁɐʃa,to split
+po,fɛnde,to split
+po,esfakja,to stab
+po,apuɲɐla,to stab
+po,ʁɐʃpa,to scratch
+po,aʁaɲa,to scratch
+po,kosa,to scratch
+po,kava,to dig
+po,nada,to swim
+po,voa,to fly
+po,a.da,to walk
+po,kamiɲa,to walk
+po,vi,to come
+po,dejtase,to lie (as in a bed)
+po,se.taʁse,to sit
+po,viɾa,to turn (intransitive)
+po,ʒiɾa,to turn (intransitive)
+po,kai,to fall
+po,da,to give
+po,seɡuɾa,to hold
+po,te,to hold
+po,apeʁta,to squeeze
+po,kompɾimi,to squeeze
+po,esfɾeɡa,to rub
+po,lava,to wash
+po,e.ʃuɡa,to wipe
+po,puʃa,to pull
+po,e.puʁa,to push
+po,atiɾa,to throw
+po,la.sa,to throw
+po,ata,to tie
+po,amaɾa,to tie
+po,koze,to sew
+po,kostuɾa,to sew
+po,ko.ta,to count
+po,dʒize,to say
+po,ka.ta,to sing
+po,bɾi.ka,to play
+po,ʒoɡa,to play
+po,flutua,to float
+po,boja,to float
+po,flui,to flow
+po,ʒela,to freeze
+po,ko.ʒela,to freeze
+po,i.ʃa,to swell
+po,i.tumese,to swell
+po,sɔw,sun
+po,luɐ,moon
+po,estɾelɐ,star
+po,aɡwɐ,water
+po,ʃuvɐ,rain
+po,ʁiu,river
+po,laɡu,lake
+po,maʁ,sea
+po,saw,salt
+po,pɛdɾɐ,stone
+po,aɾejɐ,sand
+po,oeɾɐ,dust
+po, pɔ,dust
+po,tɛʁɐ,earth
+po, sɔlu,earth
+po,nuve.j.,cloud
+po,nevueɾu,fog
+po,nɛvwɐ,fog
+po,neblina,fog
+po,sɛw,sky
+po,ve.tu,wind
+po,nɛvi,snow
+po,ʒelu,ice
+po,fumu,smoke
+po,fumasa,smoke
+po,foɡu,fire
+po,si.zɐs,ash
+po,aʁde,to burn
+po,kema,to burn
+po,estɾadɐ,road
+po,ʁuɐ,road
+po,mo.tɐ.ɲɐ,mountain
+po,veʁmeʎu,red
+po,veʁdʒi,green
+po,amɐɾɛlu,yellow
+po,bɾɐ.ku,white
+po,pɾetu,black
+po,neɡɾu,black
+po,noitʃi,night
+po,dʒiɐ,day
+po,ɐnu,year
+po,ke.tʃi,warm
+po,moʁnu,warm
+po,fɾiu,cold
+po,ʃeju,full
+po,novu,new
+po,vɛʎu,old
+po,bo.,good
+po,maw,bad
+po,podɾi,rotten
+po,suʒu,dirty
+po,dʒiɾɛtu,straight
+po,ʁɛtu,straight
+po,ʁedo.du,round
+po,afiadu,sharp (as a knife)
+po,aɡusadu,sharp (as a knife)
+po,sɛɡu,dull (as a knife)
+po,lizu,smooth
+po,swavi,smooth
+po,umidu,wet
+po,moʎadu,wet
+po,seku,dry
+po,koʁɛtu,correct
+po,pɛʁtu,near
+po,pɾɔsimu,near
+po,lo.ʒi,far
+po,dʒistɐ.tʃi,far
+po,dʒiɾetɐ,right
+po,iskeʁdɐ,left
+po,a,at
+po,e.j.,at
+po,e.j.,in
+po,ko.,with
+po,i,and
+po,si,if
+po,puɾke,because
+po,nomi,name
+fr,ʒə,I (1sg)
+fr,ty,you (2sg)
+fr,vu,you (2sg)
+fr,il,"he, she, it (3sg)"
+fr,ɛl,"he, she, it (3sg)"
+fr,nu,we (1pl)
+fr,vu,you (2pl)
+fr,il,they (3pl)
+fr,ɛl,they (3pl)
+fr,səsi,this
+fr,səla,that
+fr,isi,here
+fr,la,there
+fr,ki,who
+fr,kwa,what
+fr,u,where
+fr,ka.,when
+fr,kɔma.,how
+fr,nə,not
+fr,tu,all
+fr,boku,many
+fr,kelk,some
+fr,pø,few
+fr,otʁ,other
+fr,œ.,one
+fr,dø,two
+fr,tʁwɑ,three
+fr,katʁ,four
+fr,sɛ.k,five
+fr,ɡʁa.,big
+fr,lo.,long
+fr,laʁʒ,wide
+fr,epɛ,thick
+fr,luʁ,heavy
+fr,pəti,small
+fr,kuʁ,short
+fr,etʁwa,narrow
+fr,mɛ.s,thin
+fr,fam,woman
+fr,ɔm,man (adult male)
+fr,ɔm,man (human being)
+fr,ɑ.fɑ.,child
+fr,fam,wife
+fr,epuz,wife
+fr,maʁi,husband
+fr,epu,husband
+fr,mɛʁ,mother
+fr,pɛʁ,father
+fr,animal,animal
+fr,pwaso.,fish
+fr,wazo,bird
+fr,ʃjɛ.,dog
+fr,pu,louse
+fr,sɛʁpɑ.,snake
+fr,vɛʁ,worm
+fr,aʁbʁ,tree
+fr,fɔʁɛ,forest
+fr,bɑtɔ.,stick
+fr,fʁɥi,fruit
+fr,ɡʁɛn,seed
+fr,fœj,leaf
+fr,ʁasin,root
+fr,ekɔʁs,bark (of a tree)
+fr,flœʁ,flower
+fr,ɛʁb,grass
+fr,kɔʁd,rope
+fr,po,skin
+fr,vjɑ.d,meat
+fr,sɑ.,blood
+fr,ɔs,bone
+fr,ɡʁɛs,fat (noun)
+fr,œf,egg
+fr,kɔʁn,horn
+fr,kø,tail
+fr,plym,feather
+fr,ʃəvø,hair
+fr,tɛt,head
+fr,ɔʁɛj,ear
+fr,œj,eye
+fr,ne,nose
+fr,buʃ,mouth
+fr,dɑ.,tooth
+fr,lɑ.ɡ,tongue (organ)
+fr,ɔ.ɡl,fingernail
+fr,pje,foot
+fr,ʒɑ.b,leg
+fr,ʒənu,knee
+fr,mɛ.,hand
+fr,ɛl,wing
+fr,vɑ.tʁ,belly
+fr,ɑ.tʁɑj,guts
+fr,ɛ.tɛstɛ.,guts
+fr,ku,neck
+fr,do,back
+fr,sɛ.,breast
+fr,pwatʁin,breast
+fr,kœʁ,heart
+fr,fwɑ,liver
+fr,bwɑʁ,to drink
+fr,mɑ.ʒe,to eat
+fr,mɔʁdʁ,to bite
+fr,syse,to suck
+fr,kʁaʃe,to spit
+fr,vɔmiʁ,to vomit
+fr,sufle,to blow
+fr,ʁɛspiʁe,to breathe
+fr,ʁiʁ,to laugh
+fr,vwaʁ,to see
+fr,ɑ.tɑ.dʁ,to hear
+fr,savwaʁ,to know
+fr,pɑ.se,to think
+fr,sɑ.tiʁ,to smell
+fr,kʁɛ.dʁ,to fear
+fr,dɔʁmiʁ,to sleep
+fr,vivʁ,to live
+fr,muʁiʁ,to die
+fr,tɥe,to kill
+fr,səbatʁ,to fight
+fr,ʃase,to hunt
+fr,fʁape,to hit
+fr,kupe,to cut
+fr,fɑ.dʁ,to split
+fr,pwaɲaʁde,to stab
+fr,ɡʁate,to scratch
+fr,kʁøze,to dig
+fr,naʒe,to swim
+fr,vɔle,to fly
+fr,maʁʃe,to walk
+fr,vəniʁ,to come
+fr,setɑ.dʁ,to lie (as in a bed)
+fr,ɛtʁetɑ.dy,to lie (as in a bed)
+fr,saswaʁ,to sit
+fr,ɛtʁasi,to sit
+fr,sələve,to stand
+fr,sətəniʁdəbu,to stand
+fr,tuʁne,to turn (intransitive)
+fr,tɔ.be,to fall
+fr,dɔne,to give
+fr,təniʁ,to hold
+fr,seʁe,to squeeze
+fr,fʁɔte,to rub
+fr,lave,to wash
+fr,esɥije,to wipe
+fr,tiʁe,to pull
+fr,puse,to push
+fr,ʒəte,to throw
+fr,lɑ.se,to throw
+fr,lje,to tie
+fr,kudʁ,to sew
+fr,kɔ.te,to count
+fr,diʁ,to say
+fr,ʃɑ.te,to sing
+fr,ʒwe,to play
+fr,flɔte,to float
+fr,kule,to flow
+fr,ʒəle,to freeze
+fr,ɡɔ.fle,to swell
+fr,sɔlɛj,sun
+fr,lyn,moon
+fr,etwal,star
+fr,o,water
+fr,plɥi,rain
+fr,ʁivjɛʁ,river
+fr,lak,lake
+fr,mɛʁ,sea
+fr,sɛl,salt
+fr,pjɛʁ,stone
+fr,sabl,sand
+fr,pusjɛʁ,dust
+fr,tɛʁ,earth
+fr,nɥaʒ,cloud
+fr,bʁujaʁ,fog
+fr,sjɛl,sky
+fr,vɑ.,wind
+fr,nɛʒ,snow
+fr,ɡlas,ice
+fr,fyme,smoke
+fr,fø,fire
+fr,sɑ.dʁ,ash
+fr,bʁyle,to burn
+fr,ʁut,road
+fr,mɔ.taɲ,mountain
+fr,ʁuʒ,red
+fr,vɛʁ,green
+fr,ʒon,yellow
+fr,blɑ.,white
+fr,nwaʁ,black
+fr,nɥi,night
+fr,ʒuʁ,day
+fr,ɑ.,year
+fr,ane,year
+fr,ʃo,warm
+fr,fʁwa,cold
+fr,plɛ.,full
+fr,nuvo,new
+fr,nœf,new
+fr,vjø,old
+fr,bɔ.,good
+fr,movɛ,bad
+fr,puri,rotten
+fr,sal,dirty
+fr,dʁwa,straight
+fr,ʁɔ.,round
+fr,tʁɑ.ʃɑ.,sharp (as a knife)
+fr,emuse,dull (as a knife)
+fr,lis,smooth
+fr,muje,wet
+fr,sɛk,dry
+fr,ʒyst,correct
+fr,pʁɛ,near
+fr,lwɛ.,far
+fr,dʁwat,right
+fr,ɡoʃ,left
+fr,a,at
+fr,dɑ.,in
+fr,avɛk,with
+fr,e,and
+fr,si,if
+fr,paʁsəkə,because
+fr,nɔ.,name
+es,ʝo,I
+es,tu,you (singular)
+es,usteð,you (singular)
+es,el,he
+es,nosotɾos,we
+es,bosotɾos,you (plural)
+es,usteðes,you (plural)
+es,eʝos,they
+es,este,this
+es,ese,that
+es,akel,that
+es,aki,here
+es,aka,here
+es,ai,there
+es,kjen,who
+es,ke,what
+es,donde,where
+es,kwando,when
+es,komo,how
+es,no,not
+es,toðo,all
+es,mutʃos,many
+es,alɣunos,some
+es,poko,few
+es,otɾo,other
+es,uno,one
+es,dos,two
+es,tɾes,three
+es,kwatɾo,four
+es,siŋko,five
+es,ɡɾande,big
+es,laɾɣo,long
+es,antʃo,wide
+es,ɡoɾðo,thick
+es,pesaðo,heavy
+es,pekeɲo,small
+es,koɾto,short
+es,estɾetʃo,narrow
+es,delɣaðo,thin
+es,flako,thin
+es,muxeɾ,woman
+es,ombɾe,man (male)
+es,ombɾe,man (human)
+es,niɲo,child
+es,esposa,wife
+es,muxeɾ,wife
+es,esposo,husband
+es,maɾiðo,husband
+es,maðɾe,mother
+es,paðɾe,father
+es,animal,animal
+es,pes,fish
+es,peskaðo,fish
+es,paxaɾo,bird
+es,pero,dog
+es,pjoxo,louse
+es,seɾpjente,snake
+es,gusano,worm
+es,aɾβol,tree
+es,boske,forest
+es,palo,stick
+es,fɾuta,fruit
+es,semiʝa,seed
+es,oxa,leaf
+es,rais,root
+es,koɾtesa,bark (of a tree)
+es,floɾ,flower
+es,jeɾβa,grass
+es,kweɾða,rope
+es,pjel,skin
+es,kaɾne,meat
+es,saŋɡɾe,blood
+es,weso,bone
+es,ɡɾasa,fat (noun)
+es,weβo,egg
+es,kweɾno,horn
+es,kola,tail
+es,pluma,feather
+es,kaβeʝo,hair
+es,kaβesa,head
+es,oɾexa,ear
+es,oxo,eye
+es,naɾis,nose
+es,boka,mouth
+es,djente,tooth
+es,leŋɡwa,tongue
+es,uɲa,fingernail
+es,pje,foot
+es,pjeɾna,leg
+es,roðiʝa,knee
+es,mano,hand
+es,ala,wing
+es,bariɣa,belly
+es,tɾipas,guts
+es,kweʝo,neck
+es,espalda,back
+es,petʃo,breast
+es,koɾason,heart
+es,iɣaðo,liver
+es,beβeɾ,to drink
+es,komeɾ,to eat
+es,moɾðeɾ,to bite
+es,tʃupaɾ,to suck
+es,eskupiɾ,to spit
+es,bomitaɾ,to vomit
+es,soplaɾ,to blow
+es,respiɾaɾ,to breathe
+es,reiɾ,to laugh
+es,beɾ,to see
+es,oiɾ,to hear
+es,saβeɾ,to know
+es,pensaɾ,to think
+es,oleɾ,to smell
+es,temeɾ,to fear
+es,doɾmiɾ,to sleep
+es,biβiɾ,to live
+es,moɾiɾ,to die
+es,mataɾ,to kill
+es,peleaɾ,to fight
+es,kasaɾ,to hunt
+es,ɡolpeaɾ,to hit
+es,koɾtaɾ,to cut
+es,paɾtiɾ,to split
+es,apuɲalaɾ,to stab
+es,aɾaɲaɾ,to scratch
+es,raskaɾ,to scratch
+es,kaβaɾ,to dig
+es,naðaɾ,to swim
+es,bolaɾ,to fly
+es,kaminaɾ,to walk
+es,beniɾ,to come
+es,etʃaɾse,to lie (as in a bed)
+es,sentaɾse,to sit
+es,leβantaɾse,to stand
+es,xiɾaɾ,to turn (intransitive)
+es,kaeɾ,to fall
+es,daɾ,to give
+es,teneɾ,to hold
+es,apɾetaɾ,to squeeze
+es,fɾotaɾ,to rub
+es,laβaɾ,to wash
+es,limpjaɾ,to wipe
+es,tiɾaɾ,to pull
+es,xalaɾ,to pull
+es,empuxaɾ,to push
+es,tiɾaɾ,to throw
+es,ataɾ,to tie
+es,koseɾ,to sew
+es,kontaɾ,to count
+es,desiɾ,to say
+es,kantaɾ,to sing
+es,xuɣaɾ,to play
+es,flotaɾ,to float
+es,fluiɾ,to flow
+es,elaɾ,to freeze
+es,intʃaɾse,to swell
+es,sol,sun
+es,luna,moon
+es,estɾeʝa,star
+es,aɣwa,water
+es,ʝuβja,rain
+es,rio,river
+es,laɣo,lake
+es,maɾ,sea
+es,sal,salt
+es,pjeðɾa,stone
+es,aɾena,sand
+es,polβo,dust
+es,tjera,earth
+es,nuβe,cloud
+es,njeβla,fog
+es,sjelo,sky
+es,bjento,wind
+es,njeβe,snow
+es,jelo,ice
+es,umo,smoke
+es,fweɣo,fire
+es,senisas,ash
+es,kemaɾ,to burn
+es,kamino,road
+es,montaɲa,mountain
+es,roxo,red
+es,beɾðe,green
+es,amaɾiʝo,yellow
+es,blaŋko,white
+es,neɣɾo,black
+es,notʃe,night
+es,dia,day
+es,aɲo,year
+es,kaliðo,warm
+es,fɾio,cold
+es,ʝeno,full
+es,nweβo,new
+es,bjexo,old
+es,bweno,good
+es,malo,bad
+es,poðɾiðo,rotten
+es,susjo,dirty
+es,rekto,straight
+es,reðondo,round
+es,aɣuðo,sharp (as a knife)
+es,afilaðo,sharp (as a knife)
+es,embotaðo,dull (as a knife)
+es,romo,dull (as a knife)
+es,liso,smooth
+es,moxaðo,wet
+es,seko,dry
+es,korekto,correct
+es,seɾka,near
+es,lexos,far
+es,deɾetʃa,right
+es,iskjeɾða,left
+es,a,at
+es,en,at
+es,en,in
+es,kon,with
+es,i,and
+es,e,and
+es,si,if
+es,poɾke,because
+es,nombɾe,name
+it,io,I
+it,tu,you (singular)
+it,eʎʎi,he
+it,lui,he
+it,noi,we
+it,voi,you (plural)
+it,loro,they
+it,kwesto,this
+it,kwello,that
+it,kwi,here
+it,kwa,here
+it,la,there
+it,ki,who
+it,ke,what
+it,dove,where
+it,kwando,when
+it,kome,how
+it,non,not
+it,tutto,all
+it,molto,many
+it,alkuni,some
+it,pɔko,few
+it,altro,other
+it,uno,one
+it,due,two
+it,tre,three
+it,kwattro,four
+it,tʃinkwe,five
+it,ɡrande,big
+it,lunɡo,long
+it,larɡo,wide
+it,spesso,thick
+it,pesante,heavy
+it,pikkolo,small
+it,korto,short
+it,stretto,narrow
+it,sottile,thin
+it,dɔnna,woman
+it,wɔmo,man (male)
+it,wɔmo,man (human)
+it,bambino,child
+it,moʎʎe,wife
+it,marito,husband
+it,madre,mother
+it,padre,father
+it,animale,animal
+it,peʃʃe,fish
+it,uttʃɛllo,bird
+it,kane,dog
+it,pidɔkkjo,louse
+it,serpɛnte,snake
+it,vɛrme,worm
+it,albero,tree
+it,sɛlva,forest
+it,bastone,stick
+it,frutta,fruit
+it,seme,seed
+it,fɔʎʎa,leaf
+it,raditʃe,root
+it,kortettʃa,bark (of a tree)
+it,fjore,flower
+it,ɛrba,grass
+it,kɔrda,rope
+it,pɛlle,skin
+it,karne,meat
+it,sanɡwe,blood
+it,ɔsso,bone
+it,ɡrasso,fat (noun)
+it,wɔvo,egg
+it,kɔrno,horn
+it,koda,tail
+it,pjuma,feather
+it,kapelli,hair
+it,tɛsta,head
+it,ɔrekkjo,ear
+it,ɔkkjo,eye
+it,naso,nose
+it,bokka,mouth
+it,dɛnte,tooth
+it,linɡwa,tongue
+it,unɡja,fingernail
+it,pjɛde,foot
+it,ɡamba,leg
+it,dʒinɔkkjo,knee
+it,mano,hand
+it,ala,wing
+it,pantʃa,belly
+it,intestino,guts
+it,kɔllo,neck
+it,skjɛna,back
+it,pɛtto,breast
+it,kwɔre,heart
+it,feɡato,liver
+it,bere,to drink
+it,mandʒare,to eat
+it,mɔrdere,to bite
+it,sukkjare,to suck
+it,sputare,to spit
+it,vomitare,to vomit
+it,soffjare,to blow
+it,respirare,to breathe
+it,ridere,to laugh
+it,vedere,to see
+it,udire,to hear
+it,sapere,to know
+it,pensare,to think
+it,odorare,to smell
+it,temere,to fear
+it,dormire,to sleep
+it,vivere,to live
+it,morire,to die
+it,uttʃidere,to kill
+it,kombattere,to fight
+it,kattʃare,to hunt
+it,kolpire,to hit
+it,taʎʎare,to cut
+it,fɛndere,to split
+it,puɲɲalare,to stab
+it,ɡraffjare,to scratch
+it,skavare,to dig
+it,nwotare,to swim
+it,volare,to fly
+it,kamminare,to walk
+it,venire,to come
+it,stɛndere,to lie (as in a bed)
+it,sedere,to sit
+it,dʒirare,to turn (intransitive)
+it,kadere,to fall
+it,dare,to give
+it,tenere,to hold
+it,sprɛmere,to squeeze
+it,strofinare,to rub
+it,lavare,to wash
+it,aʃʃugare,to wipe
+it,tirare,to pull
+it,spindʒere,to push
+it,lantʃare,to throw
+it,legare,to tie
+it,kutʃire,to sew
+it,kontare,to count
+it,dire,to say
+it,kantare,to sing
+it,dʒokare,to play
+it,galleddʒare,to float
+it,fluire,to flow
+it,dʒelare,to freeze
+it,ɡonfjarsi,to swell
+it,sole,sun
+it,luna,moon
+it,stella,star
+it,akkwa,water
+it,pjɔddʒa,rain
+it,fjume,river
+it,laɡo,lake
+it,mare,sea
+it,sale,salt
+it,pjɛtra,stone
+it,sabbja,sand
+it,polvere,dust
+it,tɛrra,earth
+it,nuvola,cloud
+it,nebbja,fog
+it,tʃɛlo,sky
+it,vɛnto,wind
+it,neve,snow
+it,ɡjattʃo,ice
+it,fumo,smoke
+it,fwɔko,fire
+it,tʃeneri,ash
+it,brutʃare,to burn
+it,strada,road
+it,montaɲɲa,mountain
+it,rosso,red
+it,verde,green
+it,dʒallo,yellow
+it,bjanko,white
+it,nero,black
+it,nɔtte,night
+it,dʒorno,day
+it,anno,year
+it,kaldo,warm
+it,freddo,cold
+it,pjɛno,full
+it,nwɔvo,new
+it,vɛkkjo,old
+it,bwɔno,good
+it,kattivo,bad
+it,martʃo,rotten
+it,spɔrko,dirty
+it,dritto,straight
+it,rotondo,round
+it,aɡuttso,sharp (as a knife)
+it,affilato,sharp (as a knife)
+it,zmussato,dull (as a knife)
+it,liʃʃo,smooth
+it,baɲɲato,wet
+it,aʃʃutto,dry
+it,sekko,dry
+it,korrɛtto,correct
+it,vitʃino,near
+it,lontano,far
+it,dɛstra,right
+it,sinistra,left
+it,a,at
+it,in,in
+it,kon,with
+it,e,and
+it,se,if
+it,perke,because
+it,nome,name
