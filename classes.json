@@ -1,0 +1,108 @@
+{
+    "classes" : [
+        {
+            "label" : "A",
+            "phones" : ["a", "ɑ"]
+        },
+
+        {
+            "label" : "B",
+            "phones" : ["f", "β"]
+        },
+
+        {
+            "label" : "C",
+            "phones" : ["t͡s", "d͡z", "t͡ʃ", "d͡ʒ"]
+        },
+
+        {
+            "label" : "D",
+            "phones" : ["θ", "ð"]
+        },
+
+        {
+            "label" : "E",
+            "phones" : ["e", "ɛ", "æ"]
+        },
+
+        {
+            "label" : "G",
+            "phones" : ["ɣ", "x"]
+        },
+
+        {
+            "label" : "H",
+            "phones" : ["h", "ʔ"]
+        },
+
+        {
+            "label" : "I",
+            "phones" : ["i", "ɪ"]
+        },
+
+        {
+            "label" : "J",
+            "phones" : ["j"]
+        },
+
+        {
+            "label" : "K",
+            "phones" : ["k", "g"]
+        },
+
+        {
+            "label" : "L",
+            "phones" : ["l"]
+        },
+
+        {
+            "label" : "M",
+            "phones" : ["m"]
+        },
+
+        {
+            "label" : "N",
+            "phones" : ["n", "ŋ", "m", "ɲ"]
+        },
+
+        {
+            "label" : "O",
+            "phones" : ["ɶ", "ɒ"]
+        },
+
+        {
+            "label" : "P",
+            "phones" : ["p", "b"]
+        },
+
+        {
+            "label" : "R",
+            "phones" : ["r", "ɾ"]
+        },
+
+        {
+            "label" : "S",
+            "phones" : ["s", "z", "ʃ", "ʒ"]
+        },
+
+        {
+            "label" : "T",
+            "phones" : ["t", "d"]
+        },
+
+        {
+            "label" : "U",
+            "phones" : ["ɔ", "o"]
+        },
+
+        {
+            "label" : "W",
+            "phones" : ["v", "w"]
+        },
+
+        {
+            "label" : "Y",
+            "phones" : ["u", "ʊ", "y"]
+        }
+    ]
+}
